@@ -1,4 +1,4 @@
-# banking-app-review-analysis
+# Banking App Review Analysis
 
 ### Data Collection
 - Used `google-play-scraper` to collect user reviews from three banking apps: CBE, BOA, and Dashen.
